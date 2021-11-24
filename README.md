@@ -5,4 +5,4 @@
 - :orange_book: Focusing on learning...
 - :hammer: Creator of applications and frameworks
 - :ram: Founder the ERROF
-- :jdzy: Just do it
+- :meat_on_bone: Just do it
